@@ -1,0 +1,48 @@
+pseudo código para funcionamento do super trunfo
+
+
+bem-vindo ao super trunfo
+(usuário insere informações para primeira carta)
+carta 1
+"digite o estado"
+"digite o codigo"
+"digite a cidade"
+"digite a populacão"
+"digite a area"
+"digite o PIB"
+"digite o numero de pontos turísticos"
+
+carta 2
+"digite o estado"
+"digite o codigo"
+"digite a cidade"
+"digite a populacão"
+"digite a area"
+"digite o PIB"
+"digite o numero de pontos turísticos"
+
+o sistema armazenará as informações das duas cartas em variáveis e apresentará as informações coletadas
+em ordem.
+
+carta 1
+"o estado é X"
+"o código é X"
+"a cidade é X"
+"a população é de X pessoas"
+"a área é de Xm²"
+"o PIB é de X reais"
+"a cidade X tem X pontos turísticos"
+
+carta 2
+"o estado é X"
+"o código é X"
+"a cidade é X"
+"a população é de X pessoas"
+"a área é de Xm²"
+"o PIB é de X reais"
+"a cidade X tem X pontos turísticos"
+
+retorna 0;
+
+FIM DO PROGRAMA.
+(treinando os conceitos do pensamento computacional).
