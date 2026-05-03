@@ -1,5 +1,25 @@
 pseudo código para funcionamento do super trunfo
 
+variáveis para carta 1
+
+var1 estado
+var2 código
+var3 cidade
+var4 populacao
+var5 área
+var6 pib
+var7 turísticos
+
+variáveis para carta 2
+
+var1 estado
+var2 código
+var3 cidade
+var4 populacao
+var5 área
+var6 pib
+var7 turisticos
+
 
 bem-vindo ao super trunfo
 (usuário insere informações para primeira carta)
